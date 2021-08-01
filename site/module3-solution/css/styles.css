@@ -1,0 +1,64 @@
+* {
+	box-sizing: border-box;
+}
+
+h1 {
+	text-align: center;
+}
+
+.wrap {
+	position: relative;
+	background-color: grey;
+	padding: 40px;
+	margin-bottom: 30px;
+	margin-right: 20px;
+	margin-left: 20px;
+	text-align: justify;
+
+}
+
+.child {
+	text-align: center;
+}
+
+.navbar {
+	background-color: grey;
+	padding-bottom: 10px;
+}
+
+.container {
+	background-color:grey;
+	border-radius: 0;
+	border: 0;
+
+}
+.navbar-brand {
+	color: black;
+	font-size: 30px;
+
+}
+
+#nav-list {
+  margin-top: 50px;
+}
+
+
+#nav-list a {
+  color: black;
+  text-align: center;
+  background-color: white;
+
+}
+
+.hidden-xs {
+    border-radius: 0;
+	border:0;
+}
+
+
+.navbar-default .navbar-nav>li>a {
+	border: none;
+}
+
+
+
