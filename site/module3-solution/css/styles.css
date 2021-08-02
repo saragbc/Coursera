@@ -2,8 +2,11 @@
 	box-sizing: border-box;
 }
 
-h1 {
-	text-align: center;
+
+.text-center {
+	font-size: 30px;
+}
+
 }
 
 .wrap {
@@ -14,6 +17,10 @@ h1 {
 	margin-right: 20px;
 	margin-left: 20px;
 	text-align: justify;
+
+
+
+
 
 }
 
